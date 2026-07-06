@@ -116,3 +116,7 @@ Results can be difficult to interpret.
 No guarantee that discovered patterns are meaningful.
 Choosing the optimal number of clusters can be challenging.
 Performance depends on data quality and the chosen algorithm.
+
+
+random state
+   is a seed value that ensures 
