@@ -120,3 +120,7 @@ Performance depends on data quality and the chosen algorithm.
 
 random state
    is a seed value that ensures 
+
+   Reinforcement Learning (RL)
+
+Reinforcement Learning (RL) is a type of machine learning in which an agent learns how to make decisions by interacting with an environment. The agent receives rewards for good actions and penalties for bad actions. Over time, it learns the best strategy to maximize the total reward.
